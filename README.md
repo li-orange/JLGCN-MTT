@@ -1,4 +1,4 @@
-# Experiment Workflow README
+# JLGCN-MTT Experiment Workflow README
 
 This README provides an overview of the experiment workflow, including the data preprocessing and the generation of the required dataset for running the Graph Convolutional Network (GCN).
 
