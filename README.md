@@ -4,7 +4,7 @@ This README provides an overview of the experiment workflow, including the data 
 
 ## 1. Data Preprocessing
 
-The data preprocessing is handled through two Python scripts: **replace.py** and **graph_adj.py**. These scripts will help you generate the necessary files required for GCN.
+The data preprocessing is handled through two Python scripts: **data/replace.py** and **data/graph_adj.py**. These scripts will help you generate the necessary files required for GCN.
 
 ### Step 1: Running `replace.py`
 The **replace.py** script is responsible for preprocessing the raw data and preparing it for graph construction. This script performs operations such as cleaning and formatting the data as needed.
