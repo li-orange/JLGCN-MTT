@@ -1,5 +1,5 @@
 **Publication Notice**  
-This work has been published in the journal *Computational Biology and Chemistry*.  
+This work has been published in the journal:  *Computational Biology and Chemistry*.  
 Paper link: [https://doi.org/10.1016/j.compbiolchem.2025.108393](https://doi.org/10.1016/j.compbiolchem.2025.108393)  
 For more details, please refer to the published article.
 
