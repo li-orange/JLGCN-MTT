@@ -5,7 +5,7 @@ For more details, please refer to the published article.
 
 ## Introduction Image
 
-![Introduction](images/intro.png)
+![Introduction](images/graphica_abstract.png)
 
 # JLGCN-MTT Experiment Workflow README
 
