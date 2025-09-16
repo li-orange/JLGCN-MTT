@@ -1,3 +1,8 @@
+**Publication Notice**  
+This work has been published in the journal *Computational Biology and Chemistry*.  
+Paper link: [https://doi.org/10.1016/j.compbiolchem.2025.108393](https://doi.org/10.1016/j.compbiolchem.2025.108393)  
+For more details, please refer to the published article.
+
 # JLGCN-MTT Experiment Workflow README
 
 This README provides an overview of the experiment workflow, including the data preprocessing and the generation of the required dataset for running the Graph Convolutional Network (GCN).
